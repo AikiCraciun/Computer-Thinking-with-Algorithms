@@ -1,6 +1,6 @@
 Computer Thinking with Alghorithms Module 
 
-This module represents my personal imprementation of the following sorting alghoritms: 
+This module represents my personal implementations of the following sorting alghoritms: 
 -Count Sort
 -Heap Sort
 -Insertion Sort
