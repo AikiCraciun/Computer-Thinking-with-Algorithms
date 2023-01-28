@@ -27,4 +27,3 @@ Report - CTA Project.pdf represents a step by step personal report of sorting al
 GNU General Public License v3.0 
 
 **Free Software, Happy days!**
-HyperWrite Logo
